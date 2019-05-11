@@ -13,7 +13,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def brands(size)
+  def brand(size)
     BRANDS << brand.size
   end
 end
